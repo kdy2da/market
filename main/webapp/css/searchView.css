@@ -1,0 +1,212 @@
+@charset "UTF-8";
+
+/*아이디, 비밀번호 찾기 화면  CSS*/
+
+button {
+    overflow: visible;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;    
+}
+
+
+.css-140915z {
+	min-width: 1050px;
+	padding: 50px 0;
+	background-color: white;
+}
+
+.css-7500ra {
+	padding-bottom: 30px;
+	font-weight: 500;
+	font-size: 28px;
+	text-align: center;
+}
+
+.css-u3y03b {
+	max-width: 400px;
+	padding: 0 10px 6px 10px;
+	margin: auto;
+	position: relative;
+	background-color: white;
+}
+
+.css-1izr46f {
+	background-color: white;
+	padding: 0 15px 0 15px;
+	margin: 0;
+	box-shadow: inset 0 -0.5px 0 0 #ddd;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex-wrap: nowrap;
+	-webkit-flex-wrap: nowrap;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	text-align: center;
+}
+
+@media ( min-width : 1050px) {
+	.css-1izr46f {
+		padding: 0;
+		margin: 0 20px;
+	}
+}
+
+.css-j8h1l4 {
+	display: block;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	position: relative;
+	height: 48px;
+	font-weight: 500;
+	font-size: 16px;
+	color: #5f0080;
+	line-height: 18px;
+	box-shadow: inset 0px -2px 0px 0px #5f0080;
+}
+
+.css-1vhrqx7 {
+	display: block;
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	-ms-flex-positive: 1;
+	flex-grow: 1;
+	position: relative;
+	height: 48px;
+	font-weight: 400;
+	font-size: 16px;
+	color: #666;
+	line-height: 18px;
+}
+
+.css-s3iz85 {
+	padding: 24px 20px;
+}
+
+.css-1blp8ou:not(:first-of-type) {
+	margin-top: 8px;
+}
+
+.css-1yjqrpx {
+	padding-bottom: 12px;
+}
+
+.css-c3g9of {
+	display: inline-block;
+	padding: 8px 0 11px;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 19px;
+	color: #333;
+}
+
+.css-176lya2 {
+	position: relative;
+	height: 48px;
+}
+
+.css-1bkd15f {
+	width: 100%;
+	height: 46px;
+	padding: 0 11px 1px 15px;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+	outline: none;
+	box-sizing: border-box;
+}
+
+.css-1bkd15f:placeholder {
+	color: #ccc;
+}
+
+.css-1bkd15f:focus {
+	border: 1px solid #333;
+	background: none;
+}
+
+.css-1bkd15f:disabled {
+	background-color: #fafafa;
+	color: #999;
+}
+
+.css-1bkd15f:disabled:placeholder {
+	color: #999;
+}
+
+.css-1iilz1t {
+	position: relative;
+	height: 46px;
+}
+
+.css-189shdi {
+	width: 100%;
+	height: 46px;
+	padding: 0 11px 1px 15px;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 44px;
+	color: #333;
+	outline: none;
+	box-sizing: border-box;
+}
+
+.css-189shdi:placeholder {
+	color: #ccc;
+}
+
+.css-189shdi:focus {
+	border: 1px solid #333;
+	background: none;
+}
+
+.css-189shdi:disabled {
+	background-color: #fafafa;
+	color: #999;
+}
+
+.css-189shdi:disabled:placeholder {
+	color: #999;
+}
+
+.css-3vxi16 {
+	margin-top: 18px;
+}
+
+.css-1s9rhb5 {
+	display: block;
+	padding: 0 10px;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+	height: 52px;
+	border-radius: 4px;
+	color: #fff;
+	background-color: #5f0080;
+	border: 0 none;
+}
+
+@media ( min-width : 1050px) {
+	.css-1s9rhb5 {
+		height: 56px;
+	}
+}
+
+.css-1s9rhb5:disabled {
+	background-color: #ddd;
+}
+
+.css-ymwvow {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+}

@@ -1,0 +1,321 @@
+@charset "UTF-8";
+.css-1pz4b76 {
+    width: 1050px;
+    margin: 0px auto;
+    padding-bottom: 80px;
+}
+
+.css-1n2hipb {
+    padding: 50px 0px 48px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.css-a6t9xs {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    letter-spacing: -0.5px;
+}
+.css-8wfj4z {
+    width: 742px;
+}
+.css-20o6z0 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 18px 10px 16px 2px;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.css-zbxehx label {
+    display: inline-flex;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 0px;
+    color: rgb(51, 51, 51);
+}
+.css-79hxr7 {
+    margin-right: 12px;
+}
+.css-454d5e {
+    display: inline-block;
+    width: 1px;
+    height: 14px;
+    background: rgb(221, 221, 221);
+    margin: 6px 21px 0px 22px;
+    vertical-align: top;
+}
+.css-2lvxh7 {
+    border-bottom: 1px solid rgb(244, 244, 244);
+}
+.css-l1lu2l {
+    padding: 115px 0px;
+    border-top: 1px solid rgb(51, 51, 51);
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(181, 181, 181);
+}
+.css-20o6z0 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 18px 10px 16px 2px;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 500;
+}
+.css-zbxehx label {
+    display: inline-flex;
+    font-size: 14px;
+    line-height: 26px;
+    padding: 0px;
+    color: rgb(51, 51, 51);
+}
+.css-79hxr7 {
+    margin-right: 12px;
+}
+.css-79hxr7 svg {
+    vertical-align: middle;
+}
+svg {
+    width: 24;
+    height: 24;
+    fill: none;
+}
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+.css-1dta0ch {
+    position: relative;
+    width: 284px;
+    min-height: 942px;
+}
+.css-50ad8x {
+    position: absolute;
+    width: 284px;
+    padding-top: 60px;
+}
+.css-oft680 {
+    padding: 23px 19px 20px;
+    border-width: 1px 1px 0px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(242, 242, 242);
+    border-right-color: rgb(242, 242, 242);
+    border-left-color: rgb(242, 242, 242);
+    border-image: initial;
+    border-bottom-style: initial;
+    border-bottom-color: initial;
+}
+.css-1guaarh {
+    padding-left: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    background: url(https://res.kurly.com/pc/service/cart/2007/ico_location.svg) 0px 50% / 20px 20px no-repeat;
+}
+.css-50yi3o {
+    padding-top: 12px;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(51, 51, 51);
+}
+.css-xxfxl7 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    word-break: break-word;
+}
+.css-s6py67 {
+    padding: 7px 0px 12px;
+    font-size: 14px;
+}
+.css-z4mca9 {
+    color: rgb(95, 0, 128);
+    font-size: 14px;
+}
+.css-122i3z7 {
+    display: block;
+    padding: 0px 10px;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+    height: 36px;
+    border-radius: 3px;
+    color: rgb(95, 0, 128);
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(95, 0, 128);
+}
+.css-122i3z7 > span {
+    font-size: 12px;
+    font-weight: 500;
+}
+.css-1t6so8j {
+    padding: 19px 18px 18px 20px;
+    border: 1px solid rgb(242, 242, 242);
+    background-color: rgb(250, 250, 250);
+}
+.css-8jmoub {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding-top: 0px;
+}
+.css-vmo0an {
+    width: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+.css-iinokh {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: right;
+}
+.css-hfgifi {
+    padding-left: 2px;
+    font-size: 16px;
+    font-weight: normal;
+    vertical-align: bottom;
+}
+.css-t4mc5m {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+.css-vmo0an {
+    width: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+.css-iinokh {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: right;
+}
+.css-hfgifi {
+    padding-left: 2px;
+    font-size: 16px;
+    font-weight: normal;
+    vertical-align: bottom;
+}
+.css-t4mc5m {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding-top: 12px;
+}
+.css-vmo0an {
+    width: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+.css-iinokh {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: right;
+}
+.css-hfgifi {
+    padding-left: 2px;
+    font-size: 16px;
+    font-weight: normal;
+    vertical-align: bottom;
+}
+.css-7ygxxm {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-top: 16px;
+    padding-top: 18px;
+    border-top: 1px solid rgb(244, 244, 244);
+}
+.css-vmo0an {
+    width: 100px;
+    font-size: 16px;
+    line-height: 24px;
+    white-space: nowrap;
+}
+.css-da7gr8 {
+    width: 162px;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: right;
+}
+.css-xmbce4 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.css-aro4zf {
+    padding-left: 4px;
+    font-size: 16px;
+    vertical-align: 1px;
+}
+.css-8qz8ia {
+    padding-top: 20px;
+}
+.css-fwelhw {
+    display: block;
+    padding: 0px 10px;
+    text-align: center;
+    overflow: hidden;
+    width: 100%;
+    height: 56px;
+    border-radius: 3px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(95, 0, 128);
+    border: 0px none;
+    font-weight: 500;
+}
+.css-fwelhw:disabled {
+    background-color: rgb(221, 221, 221);
+}
+button[disabled], input[disabled] {
+    cursor: default;
+}
+.css-ymwvow {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 500;
+}
+.css-19kxq7d {
+    padding: 16px 0px;
+}
+.css-19kxq7d li {
+    padding-top: 4px;
+    color: rgb(102, 102, 102);
+}
+.css-7s0nna:before {
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: 6px 0px 0 -6px;
+    background: #999;
+    vertical-align: top;
+    border-radius: 50%;
+    content: '';
+}
+.css-7s0nna {
+    position: relative;
+    padding-top: 4px;
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 7px;
+    color: #999;
+}

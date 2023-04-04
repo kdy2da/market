@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+/* 로그인 화면 */
+
+
+.css-1bb6q2p {
+	min-width: 1050px;
+	margin-top: 90px;
+	margin-bottom: 60px;
+	background-color: rgb(255, 255, 255);
+}
+
+.css-a7gihu {
+	font-weight: 800;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: center;
+}
+
+.css-qaxuc4 {
+	display: block;
+	padding: 0 10px;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+	height: 54px;
+	border-radius: 3px;
+	color: #fff;
+	background-color: #5f0080;
+	border: 0 none;
+	font-size: 14px;
+}
+
+.css-qaxuc4:disabled {
+	background-color: #ddd;
+}
+
+.css-ymwvow {
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.css-1axolzg {
+	width: 340px;
+	margin: 0 auto;
+	letter-spacing: -0.6px;
+}
+
+.css-46b038 {
+	margin-top: 30px;
+}
+
+.css-1accgqb {
+	padding-bottom: 12px;
+}
+
+.css-176lya2 {
+	position: relative;
+	height: 48px;
+}
+
+.css-1bkd15f {
+	width: 100%;
+	height: 54px;
+	padding: 0 11px 1px 15px;
+	border-radius: 4px;
+	border: 1px solid #ddd;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #333;
+	outline: none;
+	box-sizing: border-box;
+}
+
+.css-1bkd15f:placeholder {
+	color: #ccc;
+}
+
+.css-1bkd15f:focus {
+	border: 1px solid #333;
+	background: none;
+}
+
+.css-1bkd15f:disabled {
+	background-color: #fafafa;
+	color: #999;
+}
+
+.css-1bkd15f:disabled:placeholder {
+	color: #999;
+}
+
+.css-176lya2 {
+	position: relative;
+	height: 48px;
+}
+
+.css-i4t6me {
+	text-align: right;
+	font-weight: 400;
+	font-size: 13px;
+	color: rgb(51, 51, 51);
+	cursor: pointer;
+	background-color: transparent;
+	text-decoration: none;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.css-1vjdduq {
+	display: flex;
+	-webkit-box-pack: end;
+	justify-content: flex-end;
+	margin-top: 10px;
+	font-size: 13px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	letter-spacing: -0.6px;
+	line-height: 1.15;
+}
+
+.css-1cgn39v {
+	width: 1px;
+	height: 10px;
+	margin: 3px 6px 0px;
+	background-color: rgb(51, 51, 51);
+}
+
+.css-s4i9n2 {
+	margin-top: 28px;
+}
+
+.css-s4i9n2 button:last-of-type {
+	margin-top: 10px;
+}
+
+.css-hxorrg {
+	display: block;
+	padding: 0px 10px;
+	text-align: center;
+	overflow: hidden;
+	width: 100%;
+	height: 54px;
+	border-radius: 3px;
+	color: rgb(95, 0, 128);
+	background-color: rgb(255, 255, 255);
+	border: 1px solid rgb(95, 0, 128);
+}
